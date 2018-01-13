@@ -1,0 +1,11 @@
+1. 
+How to check a variable's type:
+  By using the type() function
+
+In what cases will you get SyntaxError from the compiler telling you that some of your variables have invalid names? 
+  When you give a variable an illegal name, for example, names in Python's keyword, names with characters different from a letter, number or underscore, or you don't start a name with a letter or underscore.
+
+Can you give 3 different examples of invalid names?
+  76trombones -> Doesn's start with a letter
+  more$ -> Illegal character $
+  class -> Python's keyword, cannot be used
