@@ -1,0 +1,20 @@
+1. What is Boolean?
+Boolean is a binary variable, having two possible value called true and false
+Boolean expression example: 5 == (3 + 2) will result a true, otherwise it will result a false
+
+2. What is a flow chart?
+A flowchart is a visual representation of the sequence of steps and decisions needed to perform a process.
+
+3. What is nested conditional?
+Is a situation when one conditional can also be nested within another. For example: When you use if/elif statement inside another if/elif statement.
+
+Eg:
+if username == c4e:
+   print ("Password")
+   if password == codethechange:
+       print ("Hello, superuser")
+   else:
+       print ("Password is incorrect")
+else:
+   print ("You are not superuser")
+ 
